@@ -80,6 +80,7 @@ public class Demo {
             arr[rand_index] = temp;
         }
     }
+    // lalalal
     public static void drawArray(int[] arr,int boxWidth){
        int posX = 0;
 
